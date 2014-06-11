@@ -1,0 +1,18 @@
+{
+  "name": "velocity-view",
+  "version": "0.0.1",
+  "description": "velocity layout support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "velocityjs": "~0.4.3"
+  },
+  "keywords": [
+    "velocity",
+    "layout"
+  ],
+  "author": "jaxchow",
+  "license": "ISC"
+}
